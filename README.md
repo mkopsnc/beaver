@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mkopsnc/beaver/main/img/beaver.png">
+  <img src="https://github.com/mkopsnc/beaver/blob/master/img/beaver.png">
 </p>
 
 # Beaver
