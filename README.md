@@ -14,6 +14,7 @@ and stores the output inside pulse file: `shot=1111 run=999`.
 
 # Content of the repository
 
+```
 .
 |-- bin
 |   `-- intentionally_left_empty
@@ -28,6 +29,7 @@ and stores the output inside pulse file: `shot=1111 run=999`.
 |-- README.md                      - this README.md file
 `-- src
     `-- main.f90                   - source code
+```
 
 # Requirements
 
